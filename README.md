@@ -1,8 +1,17 @@
-# React + Vite
+# Hero-Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es el proyecto final de la materia 'Interfaces Web' de la Ingeniería de Sistemas Computacionales.
+Instituto Tecnologico de Tepic.
 
-Currently, two official plugins are available:
+## Descripción del sitio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hero-Shop es una tienda virtual que ofrece una amplia gama de productos de anime y videojuegos.
+Cuenta con una pagina de inicio, una sección de catálogo y una sección de carrito de compras.
+Tambien cuenta con una sección de preguntas frecuentes y un footer con información de contacto.
+
+## Equipo desarrollador
+
+- Cabrera Ávila Edson Antonio
+- López Cantabrana Christian Isabel
+- Santiaglo Flores Jorge Alexis
+- Torres Reyes Jaime Camil
