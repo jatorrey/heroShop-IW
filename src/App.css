@@ -1,0 +1,11 @@
+/* App.css */
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Asegura que la página ocupe toda la altura */
+  }
+  
+  .main-content {
+    flex: 1; /* Hace que el contenido se expanda y ocupe el espacio disponible */
+  }
+  
